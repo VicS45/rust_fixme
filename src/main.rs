@@ -66,7 +66,7 @@ fn main()
 
         {
             // Hint : Fix the code so you can print it using {}
-            println!("{}", color);
+            println!("{}", *color);
         }
 }
 
